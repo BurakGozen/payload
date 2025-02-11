@@ -137,7 +137,7 @@
     "@types/react-dom": "19.0.1",
     "@types/uuid": "10.0.0",
     "babel-plugin-react-compiler": "19.0.0-beta-df7b47d-20241124",
-    "esbuild": "0.24.0",
+    "esbuild": "0.25.0",
     "esbuild-sass-plugin": "3.3.1",
     "eslint-plugin-react-compiler": "19.0.0-beta-df7b47d-20241124",
     "payload": "workspace:*"
